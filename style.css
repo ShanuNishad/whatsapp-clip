@@ -1,0 +1,170 @@
+.head{
+    height: 100px;
+    width: 100%;
+    background-color: #00a884;;
+}
+.time{
+    color: white;
+    font-weight: 20px;
+    font-size: small;
+   
+}
+.image{
+    position: absolute;
+    top: 13px;
+    left: 130px;
+}
+.network{
+    height: 50px;
+    width: 350px;
+    /* background-color: red; */
+    position: absolute;
+    top: 13px;
+    left: 1160px;
+}
+.vo{
+    font-size: 8px;
+    position:absolute;
+    top: 0px;
+    left: 28px;
+    color: white;
+}
+.wi{
+    font-size: 8px;
+    position: absolute;
+    top: 8px;
+    left: 28px;
+    color: white;
+}
+.vo1{
+    font-size: 8px;
+    position: absolute;
+    top: 0px;
+    left: 78px;
+    color: white;
+}
+.wi2{
+    font-size: 8px;
+    position: absolute;
+    top: 8px;
+    left: 78px;
+    color: white;
+}
+.im{
+    position: absolute;
+    top: 2px;
+    left: 60px;
+    
+}
+.im1{
+    position: absolute;
+    top: 2px;
+    left: 10px;
+}
+.material-icons{
+    position: absolute;
+    top: 0px;
+    left: 105px;
+}
+.fa{
+    position: absolute;
+    top: 0px;
+    left: 140px;
+}
+
+span {
+  content: "\2192";
+}
+.img1{
+    position: absolute;
+    top: 30px;
+    left: 40px;
+}
+.icon{
+    height: 50px;
+    width: 150px;
+    /* background-color: red; */
+    position: absolute;
+    top: 40px;
+    right: 30px;
+}
+.center{
+      display: flex;
+      justify-content: center;
+     
+}
+.cn{
+    height: 29px;
+    width: 60px;
+    background-color: rgb(197, 209, 219);
+    border-radius: 8px;
+    text-align: center;
+    font-weight: 500;
+}
+.msg{
+    height: 40px;
+    width: 100%;
+    /* background-color: brown; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+}
+.word{
+    height: 40px;
+    width: 1000px;
+    background-color: rgba(213, 228, 129, 0.966);
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+}
+.message{
+    height: 70px;
+    width: 100%;
+    /* background-color: tomato; */
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    padding-right: 20px;
+   
+}
+.mg{
+    height: 50px;
+    width: 400px;
+    background-color: rgb(115, 235, 145);
+    border-radius: 8px;
+}
+.time2{
+   position: relative;
+   left: 300px;
+   bottom: 4px;
+}
+footer{
+    height: 80px;
+    width: 100%;
+    /* background-color: aqua; */
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    padding-left: 10px;
+    
+   
+}
+.call{
+    height:50px;
+    width: 1270px;
+    background-color: rgb(235, 208, 208);
+    border-radius: 50px;
+}
+.record{
+    height: 50px;
+    width: 50px;
+    background-color: green;
+    position: relative;
+    left: 13px;
+    border-radius: 50%;
+
+}
